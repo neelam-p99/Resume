@@ -1,0 +1,25 @@
+div
+{
+    border-radius: 5px;
+    }
+#header
+{
+    position: fixed;
+    z-index: 1;
+    height: 110px;
+    width: 98%;
+    background-color: rgb(168, 209, 212);
+    margin-bottom: 10px
+    }
+
+table
+{
+    border: 1px dashed black;
+    }
+td
+{
+    padding: 2px;
+    
+    border: 1px solid rgb(13, 73, 65);
+    }
+
